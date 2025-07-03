@@ -4,7 +4,7 @@
 
 ## 🌐 Live Demo
 
-[Live Demo on Vercel](https://your-app-url.vercel.app) ← デプロイ後にURLを更新
+[Live Demo on Vercel](https://react-counter-todo-app.vercel.app) ← 本番環境で動作中！
 
 ## ✨ 機能
 
